@@ -13,6 +13,6 @@ Numerical methods codes
 * [Guass Elimination Method (without pivoting)](https://github.com/pa1pal/Numerical-Methods/blob/master/GUASS_ELIMINATION_WP.cpp)
 
 ### Numerical Integraion
-* [Trapezoidal Rule](https://github.com/pa1pal/Numerical-Methods/Numerical-Integration/blob/master/trapezoidal.cpp)
-* [Simpson 1/3 Rule](https://github.com/pa1pal/Numerical-Methods/Numerical-Integration/blob/master/simpson1by3.cpp)
-* [Simpson 3/8 Rule](https://github.com/pa1pal/Numerical-Methods/Numerical-Integration/blob/master/simpson3by8.cpp)
+* [Trapezoidal Rule](https://github.com/pa1pal/Numerical-Methods/blob/master/Numerical%20Integration/trapezoidal.cpp)
+* [Simpson 1/3 Rule](https://github.com/pa1pal/Numerical-Methods/blob/master/Numerical%20Integration/simpson1by3.cpp)
+* [Simpson 3/8 Rule](https://github.com/pa1pal/Numerical-Methods/blob/master/Numerical%20Integration/simpson3by8.cpp)
